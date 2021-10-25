@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and data structures
 - 💞️ I’m looking to collaborate on startups
-- 📫 How to reach me as engineer
+- 📫 How to reach me, @Gxrco on Twitter
 
 
 <!---
