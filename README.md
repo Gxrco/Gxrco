@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gxrco
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and data structures
-- 💞️ I’m looking to collaborate on startups
-- 📫 How to reach me, @Gxrco on Twitter
+- 💞️ I’m looking to collaborate with Jr and Snr programmers
+- 📫 How to reach me, @GxrcoOnline on Twitter
 
 
 <!---
