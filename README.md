@@ -2,7 +2,7 @@
 
 **Junior Developer (Backend Dev/Database Administrator/ Cloud Computing Learner)**
 
-I describe myself as a person who is enthusiastic about all new technologies, especially with connectivity and platforms that work in parallel. This has led me to have a preference for backend development, but that does not detract from my willingness to learn as if I were a full-stack developer. Right now I am studying Computer Science at the Universidad del Valle de Guatemala, career which drives my curiosity for the world of development and implementation of solutions with current tools. 
+I describe myself as a person who is enthusiastic about all new technologies, especially with tools and platforms that work as a whole. This has led me to have a preference for backend development, but that does not detract from my willingness to learn as if I were a full-stack developer. Right now I am studying Computer Science at the Universidad del Valle de Guatemala, career which drives my curiosity for the world of development and implementation of solutions with current tools. 
 
    <p align="left">
       <a href="https://twitter.com/GxrcoOnline">
