@@ -9,5 +9,5 @@ I describe myself as a person who is enthusiastic about all new technologies, es
          <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/GxrcoOnline?color=blue&label=Follow%20me&logo=Twitter&style=for-the-badge"></a>
    
       <a href="https://github.com/Gxrco">
-         <img alt="GitHub followers" src="https://img.shields.io/github/followers/gxrco?color=red&logo=github&style=for-the-badge"></a>
+         <img alt="GitHub followers" src="https://img.shields.io/github/followers/Gxrco?color=grey&label=Followers&logo=github&style=for-the-badge"></a>
    </p>
